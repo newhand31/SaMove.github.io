@@ -104,7 +104,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://newhand31.github.io/SaMove.github.io/",
+            "baseHref": "/SaMove.github.io/",
             "name": "newhand31",
             "email": "c1122334441@hotmail.com"
           }
